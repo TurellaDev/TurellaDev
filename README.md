@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Tiago</h1>
 
 <p align="center">
-  <img src="./welcome.png" alt="Portfolio Preview" width="100%" />
+  <a href="https://turelladev.github.io" target="_blank">
+    <img src="./banner.png" alt="Portfolio Preview" width="100%" />
+  </a>
 </p>
 
 <pre>
