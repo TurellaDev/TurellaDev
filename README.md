@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://turelladev.github.io" target="_blank">
-    <img src="./banner.png" alt="Portfolio Preview" width="100%" />
+    <img src="./welcome.png" alt="Portfolio Preview" width="100%" />
   </a>
 </p>
 
