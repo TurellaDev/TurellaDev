@@ -1,10 +1,13 @@
-<h1 align="center"> Hi there 👋, I'm Tiago</h1>
+<h1 align="center">Hi there 👋, I'm Tiago</h1>
 
+<p align="center">
+  <img src="./welcome.png" alt="Portfolio Preview" width="100%" />
+</p>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 Did my Junior at ETPR(Escola Técnica e Profissional do Ribatejo)
-📝 I have a strong interest in building Frontend Uis, Designing in 16bit, Creating and editing videos.
+💻 I am developing my skills as a Frontend Developer | Enthusiastic about new technologies
+📚 Did my Junior at ETPR (Escola Técnica e Profissional do Ribatejo)
+📝 I have a strong interest in building Frontend UIs, Designing in 16bit, Creating and editing videos.
 🔭 Working on Minecraft, Azuriom CMS and Themes, Developing my own projects.
 🌱 Focusing on Learning about the world!
 🌟 Main languages: Js, Typescript, Lua, Java, C#, VB, PHP and CSS
