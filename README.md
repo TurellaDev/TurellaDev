@@ -33,5 +33,7 @@
 <p align="center">
   <img src="https://github.com/TurellaDev/TurellaDev.github.io/blob/main/turella-logo.png" alt="snake">
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TurellaDev/TurellaDev/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 ---
